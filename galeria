@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body {
+                background-color: rgb(26, 26, 26);
+            }
+        </style>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" />
+        <link rel="stylesheet" media="only screen and (max-width: 768px)" href="../css/style.css.css">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+        <link rel="stylesheet" href="../css/style.css.css">
+        <title>Digitalimagenvideo</title>
+        <center>
+        <img src="../img/banner.png" width="100%" height="100%"/>
+        </center>
+        </head>
+    <body>
+        <ul>
+            <center>
+            <div class="container">
+            <button class="Inicio"><a href="../index.html">Inicio</a></button>
+            <button class="Galeria"><a href="#">Galeria</a></button>
+            <button class="Contacto"><a href="../pag/contacto.html">Contacto</a></button>
+            </div>
+            </center>
+        </ul>
+        <h1 style="color:#ffffff"><center>Galeria</center></h1>
+            
+        <div class="container">
+        </div>
+        <div class="social">
+            <center>
+            <a href="https://www.instagram.com/digitalimagenvideo/"><img height="100" src="../img/instagram.png" alt="instagram"></a>
+            <a href="https://www.facebook.com/profile.php?id=100075882355367"><img height="100" src="../img/facebook1.png" alt="facebook1"></a>
+            <a href="https://web.whatsapp.com/"><img height="100" src="../img/whatsapp.png" alt="whatsapp"></a>
+            </center>
+        </div>
+        <div style="color:#ffffff" id="copyright">Copyright&copy; 2021 - Página creada por Daniel Rodriguez & Bastian Landskron - Todos los derechos reservados</div>
+    </body>
+</html>
